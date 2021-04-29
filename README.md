@@ -1,6 +1,20 @@
 README
 ================
 
+# This is a forked repository from jinbora0720!! The intention for this fork is used as reference when doing homework project. If interested, please refer to the original repository: https://github.com/jinbora0720/BMC . 
+
+
+# Ching-Lung
+
+
+================
+
+
+
+
+
+
+
 # Bayesian Matrix Completion for Hypothesis Testing
 
 This form documents the artifacts associated with the article (i.e., the
